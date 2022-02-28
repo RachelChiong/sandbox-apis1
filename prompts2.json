@@ -1,0 +1,110 @@
+[
+    {
+        "ID": "1",
+        "Prompt": "How might we ENABLE a more Asset and Infrastructure ready Government or service provider in Commonwealth",
+        "Description": "",
+        "ImageLink": " https://github.tools.sap/I562156/icons/blob/main/282870_People-build-puzzle_R_purple.png?raw=true"
+    },
+    {
+        "ID": "2",
+        "Prompt": "How might we PROVIDE a safer education and school environment for our children in State government",
+        "Description": "Currently, one in six Australians go to school. Yet despite the constant improvement in school facilities, education curriculum, teaching methods and training, bullying is a serious problem in Australian schools. Physical, verbal and social bullying can all occur in person. Cyberbullying, also referred to as online bullying, is a subset of verbal and/or social bullying carried out through technology, such as the internet and mobile devices.",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/286571_Travel-money-saver-F_R_purple.png?raw=true"
+    },
+    {
+        "ID": "3",
+        "Prompt": "How might we INFORM a more AI Driven government to make policy decisions",
+        "Description": "In many countries, layers of social benefit programs generate waste and unintended consequences. Ex: For a government struggling with assisting families in need, AI can help put resources where they will deliver the best results, whether that\u2019s employment, education, or housing support. Governments  can embed AI responsibly in policymaking to improve the lives of their citizens and society as a whole",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/281474_MachineLearning3_R_purple.png?raw=true"
+    },
+    {
+        "ID": "4",
+        "Prompt": "How might we BUILD a more enduring capability for next generation for our nation",
+        "Description": "Enduring capability: especially with increasing uncertainities due to pandemic, as well as emerging political situations, ANSTO might face supply chain disruptions to its nuclear medicine business. How can we offer intelligent systems to predict, prepare and manage - and really plan the unplannable. In addition. ",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/288195_Assemble_R_purple.png?raw=true"
+    },
+    {
+        "ID": "5",
+        "Prompt": "How might we EMPOWER the government to be more flexible and dynamic in serving the needs of the citizens ",
+        "Description": "Australian Public Service - corporate services especially is seen as back-office oriented. However, using an efficient, intelligent (Gov)ERP system, if APS staff can reduce their time spent on such internal-facing activites, they get to focus more on citizen-centric activities. In addition, such an intelligent system would come handy during emergencies and uncertain times. eg. during bush fires, it took a long time for certain govt. agencies to assemble necessary resources (who is available with a certain skill in which govt. agency ? are they trained on the skill needed ? do they have necessary equipment ? can they travel in time to the right places ? With GovERP, all of this would be, should be done more easily, effectively.",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/283604_Tax_Person_Clock_Dollar_R_purple.png?raw=true"
+    },
+    {
+        "ID": "6",
+        "Prompt": "How might we PARTNER with government to transform to a connect and sustainable supply chain for healthcare and regional development and manufacturing",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/286961_SustainableERP_SupplyChain_chain_R_purple.png?raw=true"
+    },
+    {
+        "ID": "7",
+        "Prompt": "How might we EXPIDITE a more sustainable government at all levels",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/283599_Tax_Payer_Dollar2_R_purple.png?raw=true"
+    },
+    {
+        "ID": "8",
+        "Prompt": "How might we CREATE a more CONNECTED best in class public service for NSW citizens",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/291935_Heart_4_R_purple.png?raw=true"
+    },
+    {
+        "ID": "9",
+        "Prompt": "How might we EMPOWER a more citizen focus response to disasters or community programs",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/283179_Population_Health_R_purple.png?raw=true"
+    },
+    {
+        "ID": "10",
+        "Prompt": "How might we EMBRACE a more integrated, knowledge driven Department of Defence",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/283132_German-Army_R_purple.png?raw=true"
+    },
+    {
+        "ID": "11",
+        "Prompt": "How might we ATTRACT and RETAIN a healthy and productive workforce",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/286365_Solution_Enterprise_Technical_Architecture_R_purple.png?raw=true"
+    },
+    {
+        "ID": "12",
+        "Prompt": "How do we EXEMPLIFY a more sustainable state government",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/282777_RecognitionProgram_R_purple.png?raw=true"
+    },
+    {
+        "ID": "13",
+        "Prompt": "How might we ENABLE a more efficient investment in sustainable assets in our country",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/282708_Money-coins_R_purple.png?raw=true"
+    },
+    {
+        "ID": "14",
+        "Prompt": "How might we SUPPORT a more secure and safer community for the people fo NSW",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/288822_Security%20Expert_R_purple.png?raw=true"
+    },
+    {
+        "ID": "15",
+        "Prompt": "How might we PROVIDE a WofG Grants management platform-as-a-service and provide a more standardised plug and play grants management",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/289153_Concur%20service%20delivery_2_R_purple.png?raw=true"
+    },
+    {
+        "ID": "16",
+        "Prompt": "How might we INSPIRE our tax customers",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/283602_Tax_Payment_Dollar_R_purple.png?raw=true"
+    },
+    {
+        "ID": "17",
+        "Prompt": "How might we ENABLE Effective management of the variability of revenue collection and expense outlays in the Federal and state budgeting process",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/281353_PieChartMonitor_R_purple.png?raw=true"
+    },
+    {
+        "ID": "18",
+        "Prompt": "How might we ENABLE a best in class development practices for our PS customers",
+        "Description": "",
+        "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/281232_CollabTeam_R_purple.png?raw=true"
+    }
+]
