@@ -1,4 +1,4 @@
-[
+"prompts" : [
     {
         "ID": "1",
         "Prompt": "How might we ENABLE a more Asset and Infrastructure ready Government or service provider in Commonwealth",
@@ -107,4 +107,4 @@
         "Description": "",
         "ImageLink": "https://github.tools.sap/I562156/icons/blob/main/281232_CollabTeam_R_purple.png?raw=true"
     }
-    ]
+]
