@@ -2,8 +2,7 @@
     {
         "ID": 1,
         "Prompt": "How might we ENABLE a more Asset and Infrastructure ready Government or service provider in Commonwealth",
-        "Description": "As we start making decision based on a higher number of inputs, governments are looking to store more data about the infrastructure they are planning and building.   In order to show value for money, it is important be able to demonstrate the full criteria used for evaluation.
-        On a regulatory front, Government mandates are driving further compliance requirements and necessitating centralisation of documentation requirements - ie wireframes and other schematics.  These capabilities have signifcant application in times of emergency.",
+        "Description": "As we start making decision based on a higher number of inputs, governments are looking to store more data about the infrastructure they are planning and building.   In order to show value for money, it is important be able to demonstrate the full criteria used for evaluation. On a regulatory front, Government mandates are driving further compliance requirements and necessitating centralisation of documentation requirements - ie wireframes and other schematics.  These capabilities have signifcant application in times of emergency.",
         "ImageLink": "https://github.com/RachelChiong/sandbox-apis1/blob/main/prompt_icons/281232_CollabTeam_R_purple.png?raw=true",
         "Icon": "https://raw.githubusercontent.com/RachelChiong/sandbox-apis1/main/new_img/icon_1.png",
         "Colour": "https://raw.githubusercontent.com/RachelChiong/sandbox-apis1/main/new_img/colour_1.png"
