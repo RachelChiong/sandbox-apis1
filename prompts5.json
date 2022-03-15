@@ -2,7 +2,8 @@
     {
         "ID": 1,
         "Prompt": "How might we ENABLE a more Asset and Infrastructure ready Government or service provider in Commonwealth",
-        "Description": "",
+        "Description": "As we start making decision based on a higher number of inputs, governments are looking to store more data about the infrastructure they are planning and building.   In order to show value for money, it is important be able to demonstrate the full criteria used for evaluation.
+        On a regulatory front, Government mandates are driving further compliance requirements and necessitating centralisation of documentation requirements - ie wireframes and other schematics.  These capabilities have signifcant application in times of emergency.",
         "ImageLink": "https://github.com/RachelChiong/sandbox-apis1/blob/main/prompt_icons/281232_CollabTeam_R_purple.png?raw=true",
         "Icon": "https://raw.githubusercontent.com/RachelChiong/sandbox-apis1/main/new_img/icon_1.png",
         "Colour": "https://raw.githubusercontent.com/RachelChiong/sandbox-apis1/main/new_img/colour_1.png"
@@ -42,7 +43,7 @@
     {
         "ID": 6,
         "Prompt": "How might we PARTNER with government to transform to a connect and sustainable supply chain for healthcare and regional development and manufacturing",
-        "Description": "",
+        "Description": "Health agencies must balance clinical, administrative , regulatory and health perspectives during sourcing.  Purchasing is rarely a case of the lowest unit price at the highest scale and must be flexile and adaptive to the inputs on demand.   Processes have to be scalable enough to respond to extraordinary demand, but 'low touch' enough to allow patient activities to be conducted as a preference . (IE a Nurse should be able to consume a pair of gloves without attending to a system function - but the demand should be registered at the avaialbe level to aid future purchasing planning)",
         "ImageLink": "https://github.com/RachelChiong/sandbox-apis1/blob/main/286961_SustainableERP_SupplyChain_chain_R_purple.png?raw=true",
         "Icon": "https://raw.githubusercontent.com/RachelChiong/sandbox-apis1/main/new_img/icon_6.png",
         "Colour": "https://raw.githubusercontent.com/RachelChiong/sandbox-apis1/main/new_img/colour_6.png"
